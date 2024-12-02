@@ -1,4 +1,4 @@
-# End-to-End Fake News Detection System
+# Fake News Detection System
 
 ## Overview
 This project implements an end-to-end fake news detection system using Python. It combines machine learning for detecting fake news with a user-friendly web interface built using the **Streamlit** library. The system can classify news headlines as fake or real in real time, making it an excellent example of an applied machine learning project.
